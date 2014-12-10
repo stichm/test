@@ -1,2 +1,2 @@
-test
+CHANGES FOO test
 ====
