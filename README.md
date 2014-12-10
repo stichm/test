@@ -1,2 +1,2 @@
-CHANGES FOO test
+CHANGES MASTER test
 ====
